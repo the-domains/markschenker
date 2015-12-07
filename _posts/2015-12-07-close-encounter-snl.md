@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Saturday Night Live
-    url: 'https://www.youtube.com/user/SaturdayNightLive'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=PfPdYYsEfAE#action=share'
+inLanguage: en
+starred: false
 keywords:
   - snl
   - duration
@@ -21,7 +17,13 @@ keywords:
   - starring
   - www
 description: 'Three people (Kate McKinnon, Cecily Strong, Ryan Gosling) share very different stories about their alien abduction.'
-inLanguage: en
+datePublished: '2015-12-07T14:29:02.433Z'
+dateModified: '2015-12-07T14:28:58.820Z'
+author:
+  - name: Saturday Night Live
+    url: 'https://www.youtube.com/user/SaturdayNightLive'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=PfPdYYsEfAE&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=PfPdYYsEfAE&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=PfPdYYsEfAE#action=share'
 title: Close Encounter - SNL
-datePublished: '2015-12-07T14:20:03.919Z'
-dateModified: '2015-12-07T14:12:34.010Z'
 sourcePath: _posts/2015-12-07-close-encounter-snl.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
