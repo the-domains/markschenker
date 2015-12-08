@@ -36,8 +36,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://medium.com/@girlziplocked/5-audiobooks-for-surviving-when-it-s-not-super-fun-for-you-4971dd523d09'
 title: 5 Audiobooks for Surviving When Surviving is Not Super Fun for You
-datePublished: '2015-12-08T00:31:08.846Z'
-dateModified: '2015-12-08T00:30:32.481Z'
+datePublished: '2015-12-08T01:37:02.473Z'
+dateModified: '2015-12-08T00:31:08.846Z'
 sourcePath: _posts/2015-12-08-5-audiobooks-for-surviving-when-surviving-is-not-super-fun-f.md
 published: true
 inFeed: true
