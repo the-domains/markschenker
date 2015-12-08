@@ -4,7 +4,7 @@
         <description><![CDATA[MarkSchenker]]></description>
         <link>https://thegrid.ai/markschenker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 00:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Dec 2015 00:31:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/markschenker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/markschenker/26557b3b-5e38-4045-9165-9eec67db6d3e/index.html</link>
             <guid isPermaLink="false">26557b3b-5e38-4045-9165-9eec67db6d3e</guid>
             <pubDate>Mon, 07 Dec 2015 13:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 Audiobooks for Surviving When Surviving is Not Super Fun for You]]></title>
+            <description><![CDATA[<article><h1>5 Audiobooks for Surviving When Surviving is Not Super Fun for You</h1><p>To say Augusten Burroughs' life is a shitshow would be underselling it. What is beautiful about Augusten Buroughs, though, is how he's come to a place in understanding all that has happened to him and all that he has made happen to himself that he can write this wonderful gift of a book.</p><img src="https://d262ilb51hltx0.cloudfront.net/max/600/1*kAkmVK4MyYwN9OClryNgHA.jpeg"></article>]]></description>
+            <link>https://medium.com/@girlziplocked/5-audiobooks-for-surviving-when-it-s-not-super-fun-for-you-4971dd523d09</link>
+            <guid isPermaLink="false">e6e6351a-d9d8-47c5-b1ea-f808e2da3994</guid>
+            <pubDate>Tue, 08 Dec 2015 00:31:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[God ]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/markschenker/031f1215-cd67-425e-8637-4833c2ad195c/index.html</link>
             <guid isPermaLink="false">031f1215-cd67-425e-8637-4833c2ad195c</guid>
             <pubDate>Sun, 06 Dec 2015 10:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Appa]]></title>
-            <description><![CDATA[<article><h1>Appa</h1><p>It's Appa! Our Favorite Air Bison.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3494ba70dc2a6da9876bd5e081b392d2dde1207e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/markschenker/appa/index.html</link>
-            <guid isPermaLink="false">740a1e9c-f816-47dd-8c70-fcdb060d4411</guid>
-            <pubDate>Sun, 06 Dec 2015 09:51:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
