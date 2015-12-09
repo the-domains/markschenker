@@ -4,7 +4,7 @@
         <description><![CDATA[MarkSchenker]]></description>
         <link>https://thegrid.ai/markschenker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 01:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Dec 2015 06:32:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/markschenker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 07 Dec 2015 13:54:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How To Achieve Your Goals In 6 Easy Steps - Life Learning]]></title>
+            <description><![CDATA[<article><h1>How To Achieve Your Goals In 6 Easy Steps - Life Learning</h1><p>How To Achieve Your Goals In 6 Easy Steps - Life Learning - Medium</p></article>]]></description>
+            <link>https://medium.com/life-learning/how-to-achieve-your-goals-in-6-easy-steps-4900588f251b</link>
+            <guid isPermaLink="false">eab56885-138c-45a8-b500-5e7cb9f2f463</guid>
+            <pubDate>Wed, 09 Dec 2015 06:31:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[THE VOID]]></title>
-            <description><![CDATA[<article><h1>THE VOID</h1><p>At THE VOID you will walk into new dimensions and experience worlds without limits. From fighting intergalactic wars on alien planets, to casting spells in the darkest of dungeons, THE VOID presents the future of entertainment. Only limited by imagination, our advanced Virtual-Reality technologies allow you to see, move, and feel our digital worlds in a completely immersive and realistic way.</p></article>]]></description>
+            <description><![CDATA[<article><h1>THE VOID</h1><p>At THE VOID you will walk into new dimensions and experience worlds without limits. From fighting intergalactic wars on alien planets, to casting spells in the darkest of dungeons, THE VOID presents the future of entertainment. Only limited by imagination, our advanced Virtual-Reality technologies allow you to see, move, and feel our digital worlds in a completely immersive and realistic way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47b74996e7f46c8749f1a6c1b60f5aa2ef59cef5.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=cML814JD09g</link>
             <guid isPermaLink="false">95621f53-9e45-4297-bc8a-6589d128123c</guid>
             <pubDate>Wed, 09 Dec 2015 01:45:07 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/markschenker/d273c359-6f5b-486e-8f9b-bf81aebaa231/index.html</link>
             <guid isPermaLink="false">d273c359-6f5b-486e-8f9b-bf81aebaa231</guid>
             <pubDate>Mon, 07 Dec 2015 11:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b31b343-b6eb-43cd-8b0d-25a6452c0551.png">]]></description>
-            <link>https://thegrid.ai/markschenker/f755b439-8ac3-473a-a8bb-f1db275a37d6/index.html</link>
-            <guid isPermaLink="false">f755b439-8ac3-473a-a8bb-f1db275a37d6</guid>
-            <pubDate>Mon, 07 Dec 2015 10:54:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
