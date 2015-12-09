@@ -4,7 +4,7 @@
         <description><![CDATA[MarkSchenker]]></description>
         <link>https://thegrid.ai/markschenker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 06:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Dec 2015 01:45:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/markschenker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/markschenker/26557b3b-5e38-4045-9165-9eec67db6d3e/index.html</link>
             <guid isPermaLink="false">26557b3b-5e38-4045-9165-9eec67db6d3e</guid>
             <pubDate>Mon, 07 Dec 2015 13:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[THE VOID]]></title>
+            <description><![CDATA[<article><h1>THE VOID</h1><p>At THE VOID you will walk into new dimensions and experience worlds without limits. From fighting intergalactic wars on alien planets, to casting spells in the darkest of dungeons, THE VOID presents the future of entertainment. Only limited by imagination, our advanced Virtual-Reality technologies allow you to see, move, and feel our digital worlds in a completely immersive and realistic way.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=cML814JD09g</link>
+            <guid isPermaLink="false">95621f53-9e45-4297-bc8a-6589d128123c</guid>
+            <pubDate>Wed, 09 Dec 2015 01:45:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/markschenker/f755b439-8ac3-473a-a8bb-f1db275a37d6/index.html</link>
             <guid isPermaLink="false">f755b439-8ac3-473a-a8bb-f1db275a37d6</guid>
             <pubDate>Mon, 07 Dec 2015 10:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b9ac5b9-9aeb-47c4-8420-6454705eb655.gif">]]></description>
-            <link>https://thegrid.ai/markschenker/1d046d94-be7f-4bb3-b986-635b5b30db3d/index.html</link>
-            <guid isPermaLink="false">1d046d94-be7f-4bb3-b986-635b5b30db3d</guid>
-            <pubDate>Mon, 07 Dec 2015 06:58:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
