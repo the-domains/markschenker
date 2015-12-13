@@ -4,7 +4,7 @@
         <description><![CDATA[MarkSchenker]]></description>
         <link>https://thegrid.ai/markschenker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 01:53:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2015 02:34:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/markschenker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/markschenker/26557b3b-5e38-4045-9165-9eec67db6d3e/index.html</link>
             <guid isPermaLink="false">26557b3b-5e38-4045-9165-9eec67db6d3e</guid>
             <pubDate>Mon, 07 Dec 2015 13:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[35 Things You Should Know Before Becoming "Successful" - Life Learning]]></title>
+            <description><![CDATA[<article><h1>35 Things You Should Know Before Becoming "Successful" - Life Learning</h1><p>It's Never As Good As You Think It Will Be "One of the enemies of happiness is adaptation," says Dr. Thomas Gilovich, a psychology professor at Cornell University who has studied the relationship between money and happiness for over two decades. "We buy things to make us happy, and we succeed.</p><img src="https://cdn-images-1.medium.com/max/1200/1*_9SDjff_XSe6Kl_LSJrsKg.jpeg"></article>]]></description>
+            <link>https://medium.com/life-learning/35-things-you-should-know-before-becoming-successful-fe73f3723e9b</link>
+            <guid isPermaLink="false">9fbfcbbb-4285-4e06-ad8b-6c165c670b9e</guid>
+            <pubDate>Sun, 13 Dec 2015 02:34:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What if he were muslim? Colin Powell on Muslim Americans.]]></title>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@girlziplocked/5-audiobooks-for-surviving-when-it-s-not-super-fun-for-you-4971dd523d09</link>
             <guid isPermaLink="false">e6e6351a-d9d8-47c5-b1ea-f808e2da3994</guid>
             <pubDate>Tue, 08 Dec 2015 01:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[God ]]></title>
-            <description><![CDATA[<article><h1>God </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbfebccbd764d37fe6695ec3c7ed38d116d9fb2f.png"></article>]]></description>
-            <link>https://thegrid.ai/markschenker/god/index.html</link>
-            <guid isPermaLink="false">7879d18d-6e82-4601-a004-ec64b2ffd0db</guid>
-            <pubDate>Tue, 08 Dec 2015 00:25:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
