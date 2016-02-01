@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Bob Bergen
-datePublished: '2016-02-01T11:05:56.141Z'
-dateModified: '2016-02-01T11:05:25.048Z'
+datePublished: '2016-02-01T15:13:08.647Z'
+dateModified: '2016-02-01T15:13:06.212Z'
 title: ''
 author: []
+sourcePath: _posts/2016-02-01-bob-bergen.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-bob-bergen.md
-published: true
 _type: Article
 
 ---
@@ -30,13 +30,13 @@ MAY 14, 2015
 
 This is actually a brilliant post. A multi layered brilliant post.
 
-First of all, you could substitute the word voiceover with anything from the art and (or) performing arts: from painting to dance, stand up comedy, theater, singing, etc. This is the kind of article that separates those who poses the "it" factor and those who don't. It's that "it" factor that, when the artist sees/knows the truth and statistics, it matters not. It actually makes them want it even more. It lights a fire and drives them to want it more. and be willing to do more than anyone else. For those whom this scares off, is this such a bad thing? Show business can be heartbreaking. I used to roll my eyes, not able to understand the concept when people would talk about how hard it is to handle great success as an actor. But I absolutely understand this concept. I don't relate to it as success is lovely! But I also know too many who could not handle success and self destructed. They handled the struggles of getting there far better.
+First of all, you could substitute the word _voiceover _with anything from the art and (or) performing arts: from painting to dance, stand up comedy, theater, singing, etc. This is the kind of article that separates those who poses the "it" factor and those who don't. It's that "it" factor that, when the artist sees/knows the truth and statistics, it matters not. It actually makes them want it even more. It lights a fire and drives them to want it more. and be willing to do more than anyone else. For those whom this scares off, is this such a bad thing? Show business can be heartbreaking. I used to roll my eyes, not able to understand the concept when people would talk about how hard it is to handle great success as an actor. But I absolutely understand this concept. I don't relate to it as success is lovely! But I also know too many who could not handle success and self destructed. They handled the struggles of getting there far better.
 
-But this is all why I live my life, and I teach my students, that you cannot put a dollar sign on success as an artist. When it comes to voiceover, you have to get a high at the mic. That high is your return. Be it an audition in your home studio, a national commercial at a big recording studio, a vo workout group, or a day on a film at Disney. The work itself should satisfy. It feeds your soul, far more than food feeds your body. It's the same high that a theater actor gets onstage. It's what makes us HAVE to do this. You cannot put a dollar sign of that kind of euphoric satisfaction. It's intoxicating. And when you do get to a place in your career where you are making the big bucks, you pinch yourself in disbelief that you are actually getting paid to do this amazingly joyful, fulfilling experience.
+But this is all why I live my life, and I teach my students, that you cannot put a dollar sign on success as an artist. When it comes to voiceover, **you have to get a high at the mic**. That high is your return. Be it an audition in your home studio, a national commercial at a big recording studio, a vo workout group, or a day on a film at Disney. The work itself should satisfy. It feeds your soul, far more than food feeds your body. **It's the same high that a theater actor gets onstage**. It's what makes us HAVE to do this. You cannot put a dollar sign of that kind of euphoric satisfaction. It's intoxicating. And when you do get to a place in your career where you are making the big bucks, you pinch yourself in disbelief that you are actually getting paid to do this amazingly joyful, fulfilling experience.
 
 But the joy is in the act of acting. Not in the financial return. Yes, the vo landscape has changed. Quite a bit since I started out. Technology has brought this industry to anyone with a USB mic and a free recording program. There is a distance between the current generation and the old school generation, which has created a generation gap where the two generations don't relate to each other.
 
-It used to be that everyone pursuing vo, or any acting genre, did it for the love of the art. The majority pursuing always statistically didn't make a dime at acting. They knew this going in. But they continued to study, to become the best actor they could be. They depended and counted on day and night jobs to pay the bills so they could pay for the habit of feeding their soul as an actor. And because success was not measured by a dollar sign, this brought with it a business philosophy and professionalism where the majority pursuing vo would never undercut or take low ball offers. It was't worth it. It caused a downward spiral that just damaged their fellow actors and the industry as a whole. Integrity and professionalism also did not have a dollar sign.
+It used to be that everyone pursuing vo, or any acting genre, did it for the love of the art. _The majority pursuing always statistically didn't make a dime at acting. They knew this going in. But they continued to study, to become the best actor they could be._ They depended and counted on day and night jobs to pay the bills so they could pay for the habit of feeding their soul as an actor. And because success was not measured by a dollar sign, this brought with it a business philosophy and professionalism where the majority pursuing vo would never undercut or take low ball offers. It was't worth it. It caused a downward spiral that just damaged their fellow actors and the industry as a whole. Integrity and professionalism also did not have a dollar sign.
 
 Cut to today. Technology and time has changed all of this. We have a generation of "make money at" when it comes to voiceover, rather than "do it because you love it." Much of this original post is a byproduct of this.
 
@@ -56,6 +56,8 @@ A couple of years ago someone posted a quote from my buddy Bryan Cranston. It's 
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fv1WiCGq-PcY%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dv1WiCGq-PcY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fv1WiCGq-PcY%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
-I apologize for my longwinded response. Blame the coffee. But I feel if more pursuing vo or any genre of acting did it for the love of the process and the work, rather than the money, this would be a better industry for everyone. And if Paul's "scare tactic" really scares someone away? Well, do something easier with your life. Ain't nothing easy about being an actor. But nothing worth having or working for is easy. Most in life don't pursue their passion. To me, regret is a far worse thing than failure. I'd rather be 90, looking back thinking, "Well, didn't make much money but damn, that was fun," rather than, "Well, I made a ton of money and hated every minute of it!"
+I apologize for my longwinded response. Blame the coffee. But I feel if more pursuing vo or any genre of acting did it for the love of the process and the work, rather than the money, this would be a better industry for everyone. And if Paul's "scare tactic" really scares someone away? Well, do something easier with your life. Ain't nothing easy about being an actor. **But nothing worth having or working for is easy**. Most in life don't pursue their passion. To me, regret is a far worse thing than failure.__
+
+_I'd rather be 90, looking back thinking, "Well, didn't make much money but damn, that was fun," rather than, "Well, I made a ton of money and hated every minute of it!"_
 
 [0]: http://www.bobbergen.com/
