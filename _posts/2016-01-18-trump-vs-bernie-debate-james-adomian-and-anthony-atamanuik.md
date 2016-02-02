@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: "Donald Trump (Anthony Atamanuik) and Bernie Sanders (James Adomian) hold an unsanctioned bipartisan exhibition debate at Whiplash Comedy, October 12th, 2015 LIVE at UCB Theatre NY! It's Republican Billionaire vs. Democratic Socialist fighting over the issues a year before the 2016 presidential election. The gloves are off in this Queens vs."
+datePublished: '2016-02-02T06:35:28.406Z'
+dateModified: '2016-02-02T06:35:22.777Z'
 author:
   - name: ElectionBastards2016
     url: 'https://www.youtube.com/channel/UCtOLRRP9zXUfs7AoBUUlHfw'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: youtube.com
-keywords: []
-description: "Donald Trump (Anthony Atamanuik) and Bernie Sanders (James Adomian) hold an unsanctioned bipartisan exhibition debate at Whiplash Comedy, October 12th, 2015 LIVE at UCB Theatre NY! It's Republican Billionaire vs. Democratic Socialist fighting over the issues a year before the 2016 presidential election. The gloves are off in this Queens vs."
 app_links: []
-isBasedOnUrl: 'https://youtube.com/watch?v=BGRAonpLeQg'
 title: 'Trump vs. Bernie Debate! (James Adomian & Anthony Atamanuik LIVE at Whiplash Comedy UCB-NY)'
-datePublished: '2016-01-18T10:36:01.015Z'
-dateModified: '2016-01-18T09:42:37.365Z'
 sourcePath: _posts/2016-01-18-trump-vs-bernie-debate-james-adomian-and-anthony-atamanuik.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+url: trump-vs-bernie-debate-james-adomian-and-anthony-atamanuik/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
