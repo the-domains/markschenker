@@ -4,7 +4,7 @@
         <description><![CDATA[MarkSchenker]]></description>
         <link>https://thegrid.ai/markschenker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 07:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 07:11:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/markschenker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Live like nobody's watching.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/markschenker/live-like-nobodys-watching/index.html</link>
             <guid isPermaLink="false">c7642ccb-123d-4c07-bfed-884b76fe2020</guid>
             <pubDate>Mon, 01 Feb 2016 15:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lessons on Japan and Japanese life]]></title>
+            <description><![CDATA[<article><h1>Lessons on Japan and Japanese life</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57bbc97a886571bd96a406ff2484330a72fe966e.png"></article>]]></description>
+            <link>https://thegrid.ai/japan/</link>
+            <guid isPermaLink="false">99e17770-b284-4bc6-9473-8bdc93d91a88</guid>
+            <pubDate>Tue, 02 Feb 2016 07:10:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A collection of things I find inspiring]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Teaching College Students To Use The Appropriate Communication Platforms</h1><p>One of the important ancillary findings arising out of my research is the need to teach college students about choosing the best to communication method for the contexts they find themselves in and the goals they want to achieve. As the infographic above illustrates, different media have different levels of intimacy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/342a147ec5eef0fa99b4d6f7939c9b9556f5f557.png"></article>]]></description>
             <link>https://www.linkedin.com/pulse/teaching-college-students-use-appropriate-platforms-paul-brown?trk=v-feed</link>
             <guid isPermaLink="false">9a4de387-0222-4c62-bba4-a9a522ddfba9</guid>
-            <pubDate>Sat, 30 Jan 2016 15:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[These are the books students at the top US colleges are required to read]]></title>
-            <description><![CDATA[<article><h1>These are the books students at the top US colleges are required to read</h1><p>The leaders of tomorrow will be well versed in dead philosophers, according to a new database of college syllabi. The Open Syllabus Project, a collection of over 1 million curricula from English-language colleges and universities over the past 15 years, released its data on Friday (Jan. 22).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f5038050ecfd3a81fcce9daae141ebdfecf49bc.jpg"></article>]]></description>
-            <link>http://qz.com/602956/these-are-the-books-students-at-the-top-us-colleges-are-required-to-read/?utm_content=bufferf5ed0&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">82724650-0195-42f4-b6fd-2169ee979081</guid>
             <pubDate>Sat, 30 Jan 2016 15:27:50 GMT</pubDate>
         </item>
     </channel>
