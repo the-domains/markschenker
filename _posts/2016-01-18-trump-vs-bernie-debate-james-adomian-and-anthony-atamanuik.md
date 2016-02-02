@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Donald Trump (Anthony Atamanuik) and Bernie Sanders (James Adomian) hold an unsanctioned bipartisan exhibition debate at Whiplash Comedy, October 12th, 2015 LIVE at UCB Theatre NY! It's Republican Billionaire vs. Democratic Socialist fighting over the issues a year before the 2016 presidential election. The gloves are off in this Queens vs."
-datePublished: '2016-02-02T06:35:28.406Z'
+datePublished: '2016-02-02T06:35:28.412Z'
 dateModified: '2016-02-02T06:35:22.777Z'
 author:
   - name: ElectionBastards2016
