@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Posts that get me thinking
-datePublished: '2016-02-02T07:26:35.209Z'
-dateModified: '2016-02-02T07:26:32.102Z'
+datePublished: '2016-02-02T07:30:12.575Z'
+dateModified: '2016-02-02T07:30:07.609Z'
 author: []
 related: []
 app_links: []
