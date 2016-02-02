@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Bob Bergen's perspective on the Arts and what it means to be an artist"
-datePublished: '2016-02-02T04:20:54.749Z'
+datePublished: '2016-02-02T04:20:54.629Z'
 dateModified: '2016-02-02T04:20:45.853Z'
 title: A conversation on the Arts
 author: []
