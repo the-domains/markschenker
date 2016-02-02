@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Japan and Japanese
-datePublished: '2016-02-02T07:22:44.929Z'
-dateModified: '2016-02-02T07:21:16.976Z'
+datePublished: '2016-02-02T07:27:35.702Z'
+dateModified: '2016-02-02T07:27:31.499Z'
 author: []
 related: []
 app_links: []
@@ -35,8 +35,10 @@ But, as it is with any life abroad experience, those three years were much more 
 
 It was also a chance to learn a language and culture completely different from the one I knew. Both Japanese and Japan can be incredibly simple and complex at the same time. 
 
-Luckily I took lots of pictures, and have a ton of memories, which I will slowly be adding to this blog as I continue learning Japanese and reflecting on what my Japan experience meant. 
+Luckily I took lots of pictures, and have a ton of memories, which I will slowly be adding to [this blog][0] as I continue learning Japanese and reflecting on what my Japan experience meant. 
 
 If you're curious about what life in Japan is like, or about Japanese study, I hope this can help you. It's an amazing country. Three years and I still haven't seen anything yet. 
 
 _Don't worry Japan, I'll be back._
+
+[0]: https://thegrid.ai/japan/
