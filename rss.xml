@@ -4,7 +4,7 @@
         <description><![CDATA[MarkSchenker]]></description>
         <link>https://thegrid.ai/markschenker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 07:06:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 07:11:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/markschenker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Live like nobody's watching.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/markschenker/live-like-nobodys-watching/index.html</link>
             <guid isPermaLink="false">c7642ccb-123d-4c07-bfed-884b76fe2020</guid>
             <pubDate>Mon, 01 Feb 2016 15:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A collection of things I find inspiring]]></title>
+            <description><![CDATA[<article><h1>A collection of things I find inspiring</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b467ade43d9c521a11d88fed7f8c0ef329d8a26.png"></article>]]></description>
+            <link>https://thegrid.ai/quoteslist/</link>
+            <guid isPermaLink="false">65958175-e086-4a0c-b1b8-280f4cf699ca</guid>
+            <pubDate>Tue, 02 Feb 2016 07:10:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Write]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>These are the books students at the top US colleges are required to read</h1><p>The leaders of tomorrow will be well versed in dead philosophers, according to a new database of college syllabi. The Open Syllabus Project, a collection of over 1 million curricula from English-language colleges and universities over the past 15 years, released its data on Friday (Jan. 22).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f5038050ecfd3a81fcce9daae141ebdfecf49bc.jpg"></article>]]></description>
             <link>http://qz.com/602956/these-are-the-books-students-at-the-top-us-colleges-are-required-to-read/?utm_content=bufferf5ed0&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
             <guid isPermaLink="false">82724650-0195-42f4-b6fd-2169ee979081</guid>
-            <pubDate>Sat, 30 Jan 2016 15:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Herzog: "Read, read, read."]]></title>
-            <description><![CDATA[<article><h1>Herzog: "Read, read, read."</h1><p>Last night, at the premiere of Werner Herzog's documentary on the internet, someone asked Herzog what he would say as advice to young filmmakers. Herzog replied: "Read, read, read, read, read, read." It reminded me of this 1916 quote from Henry Hazlitt, in his Thinking as a Science: "A man with a scant vocabulary will almost certainly be a weak thinker.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/783eb2e4a8660df6942f0667cdb41bab07fbcf9e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/markschenker/herzog-read-read-read/index.html</link>
-            <guid isPermaLink="false">d39c54b6-89a2-4162-98f5-ba1b9d1e43ed</guid>
             <pubDate>Sat, 30 Jan 2016 15:27:50 GMT</pubDate>
         </item>
     </channel>
