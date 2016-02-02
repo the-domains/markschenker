@@ -1,15 +1,14 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=v1WiCGq-PcY'
 inLanguage: null
 starred: false
 keywords: []
-description: Bob Bergen
-datePublished: '2016-02-01T15:13:08.962Z'
-dateModified: '2016-02-01T15:13:06.212Z'
-title: ''
+description: "Bob Bergen's perspective on the Arts and what it means to be an artist"
+datePublished: '2016-02-02T04:20:54.749Z'
+dateModified: '2016-02-02T04:20:45.853Z'
+title: A conversation on the Arts
 author: []
 sourcePath: _posts/2016-02-01-bob-bergen.md
 published: true
@@ -19,12 +18,17 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: a-conversation-on-the-arts/index.html
 _type: Article
 
 ---
-<article style=""><h1>5 Reasons Why You Should Never Become A Voice-Over</h1><p>Voice Over</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7579cb0e033d20292eb6168f30a884992517e42c.png" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c92028a-7f1f-4d60-b918-1dffd173db11.png)
 
-_[Bob Bergen][0]_
+## Make sure you go into the performing arts for the right reasons.
+
+Bob Bergen wrote a wonderful response to the article "[5 reasons you should never become a voice over actor][0]." It beautifully explains my own sentiments about what the performing arts are all about. 
+
+_[Bob Bergen][1]:_
 
 MAY 14, 2015
 
@@ -60,4 +64,5 @@ I apologize for my longwinded response. Blame the coffee. But I feel if more pur
 
 _I'd rather be 90, looking back thinking, "Well, didn't make much money but damn, that was fun," rather than, "Well, I made a ton of money and hated every minute of it!"_
 
-[0]: http://www.bobbergen.com/
+[0]: http://www.nethervoice.com/2015/05/06/5-reasons-why-you-should-never-become-a-voice-over/
+[1]: http://www.bobbergen.com/
