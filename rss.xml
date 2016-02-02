@@ -4,7 +4,7 @@
         <description><![CDATA[MarkSchenker]]></description>
         <link>https://thegrid.ai/markschenker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 06:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 06:52:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/markschenker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Live like nobody's watching.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/markschenker/live-like-nobodys-watching/index.html</link>
             <guid isPermaLink="false">c7642ccb-123d-4c07-bfed-884b76fe2020</guid>
             <pubDate>Mon, 01 Feb 2016 15:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to Write]]></title>
+            <description><![CDATA[<article><h1>How to Write</h1><h2>Excerpt from Confessions of an Advertising Man by David Ogilvy:</h2><p>Writing tips</p></article>]]></description>
+            <link>https://thegrid.ai/markschenker/6c0c22bc-006f-4910-99a9-3dbd66c28b5c/index.html</link>
+            <guid isPermaLink="false">6c0c22bc-006f-4910-99a9-3dbd66c28b5c</guid>
+            <pubDate>Tue, 02 Feb 2016 06:52:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trump vs. Bernie Debate! (James Adomian & Anthony Atamanuik LIVE at Whiplash Comedy UCB-NY)]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/markschenker/herzog-read-read-read/index.html</link>
             <guid isPermaLink="false">d39c54b6-89a2-4162-98f5-ba1b9d1e43ed</guid>
             <pubDate>Sat, 30 Jan 2016 15:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ ]]></title>
-            <description><![CDATA[<article><h1> </h1><p>"Just be yourself!"</p><img src="https://cdn-images-1.medium.com/max/1200/1*P5WuG_tGKrOMsTveeKKw3g.jpeg"></article>]]></description>
-            <link>urn:uuid:a7e2703e-0b65-4609-8fbc-a3b14d9e2447</link>
-            <guid isPermaLink="false">1216f780-17d3-4c3c-b724-317249df6037</guid>
-            <pubDate>Tue, 02 Feb 2016 06:34:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
