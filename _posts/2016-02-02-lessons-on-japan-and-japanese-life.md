@@ -6,12 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: Japan and Japanese
-datePublished: '2016-02-04T02:03:32.103Z'
-dateModified: '2016-02-04T02:02:58.542Z'
+datePublished: '2016-02-04T02:07:38.207Z'
+dateModified: '2016-02-04T02:06:46.745Z'
 author: []
 related: []
 app_links: []
-title: A part of me will always be stuck in Japan.
+title: 日本
 sourcePath: _posts/2016-02-02-lessons-on-japan-and-japanese-life.md
 published: true
 authors: []
@@ -25,7 +25,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# A part of me will always be stuck in Japan.
+# 日本
+
+## A part of me will always be stuck in Japan.
 
 <article style=""><h1>Lessons on Japan and Japanese life</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6502ca9b7a8e742c84d3068c3cc2997c6665388e.png" /></article>
 
