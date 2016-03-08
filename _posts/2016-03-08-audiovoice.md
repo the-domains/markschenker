@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: My Voice Over and Audio Editing Work
-datePublished: '2016-03-08T03:00:41.571Z'
-dateModified: '2016-03-08T03:00:22.618Z'
+datePublished: '2016-03-08T03:01:02.599Z'
+dateModified: '2016-03-08T03:00:42.037Z'
 title: Audio/Voice
 author: []
 sourcePath: _posts/2016-03-08-audiovoice.md
