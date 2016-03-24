@@ -4,7 +4,7 @@
         <description><![CDATA[One. Click. Voice.]]></description>
         <link>http://mschenker.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 05:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 05:02:04 GMT</lastBuildDate>
         <atom:link href="http://mschenker.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Audio/Voice]]></title>
@@ -12,13 +12,6 @@
             <link>http://mschenker.com/audiovoice/index.html</link>
             <guid isPermaLink="false">d48a4634-812d-4dd3-9c63-5e46dd718860</guid>
             <pubDate>Thu, 24 Mar 2016 04:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Make sure you go into the performing arts for the right reasons.]]></title>
-            <description><![CDATA[<article><h1>Make sure you go into the performing arts for the right reasons.</h1><p>Bob Bergen wrote a wonderful response to the article "5 reasons you should never become a voice over actor." It beautifully explains my own sentiments about what the performing arts are all about:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5acdefcaf67c758c37e26915e47d627ffa3d523a.png"></article>]]></description>
-            <link>http://mschenker.com/a-conversation-on-the-arts/index.html</link>
-            <guid isPermaLink="false">f384169a-aa04-4e30-b9ef-f5b561c3f706</guid>
-            <pubDate>Tue, 02 Feb 2016 06:33:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
