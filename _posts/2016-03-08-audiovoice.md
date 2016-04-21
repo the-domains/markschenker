@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I've been editing and producing audio content freelance for the last 4-5 years. My audiobook work includes work for private clients as well as sites like Audible.com."
-datePublished: '2016-04-21T02:52:28.467Z'
-dateModified: '2016-04-21T02:52:20.144Z'
+datePublished: '2016-04-21T02:54:07.131Z'
+dateModified: '2016-04-21T02:52:36.975Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-08-audiovoice.md
