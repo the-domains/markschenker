@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I've been editing and producing audio content freelance for the last 4-5 years. My audiobook work includes work for private clients as well as sites like Audible.com.\_"
-datePublished: '2016-03-24T04:55:45.800Z'
-dateModified: '2016-03-24T04:55:45.169Z'
-title: Audio/Voice
+datePublished: '2016-04-21T02:38:48.261Z'
+dateModified: '2016-04-21T02:38:40.366Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-08-audiovoice.md
 published: true
@@ -22,6 +22,6 @@ url: audiovoice/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/756cbacf93342f125be0096f4994e0ee2b4d7440.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49b0f660-2753-47cc-bd5d-202bb2d90cfa.png)
 
 I've been editing and producing audio content freelance for the last 4-5 years. My audiobook work includes work for private clients as well as sites like Audible.com.
