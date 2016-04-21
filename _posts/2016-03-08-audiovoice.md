@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "I've been editing and producing audio content freelance for the last 4-5 years. My audiobook work includes work for private clients as well as sites like Audible.com.\_"
-datePublished: '2016-04-21T02:38:48.261Z'
-dateModified: '2016-04-21T02:38:40.366Z'
+description: "I've been editing and producing audio content freelance for the last 4-5 years. My audiobook work includes work for private clients as well as sites like Audible.com."
+datePublished: '2016-04-21T02:48:12.412Z'
+dateModified: '2016-04-21T02:47:50.882Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-08-audiovoice.md
@@ -24,4 +24,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49b0f660-2753-47cc-bd5d-202bb2d90cfa.png)
 
-I've been editing and producing audio content freelance for the last 4-5 years. My audiobook work includes work for private clients as well as sites like Audible.com.
+I've been editing and producing audio content freelance for the last 4-5 years. My audiobook work includes work for private clients as well as sites like [Audible.com][0].
+
+Here's an example of a [short story][1] and 
+
+[0]: http://www.audible.com/search/ref=a_search_c4_1_1_1_srNarr?searchNarrator=Mark+Schenker&qid=1461206517&sr=1-1
+[1]: https://soundcloud.com/mschenker/a-love-story
