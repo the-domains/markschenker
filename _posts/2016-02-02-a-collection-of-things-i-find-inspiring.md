@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Posts that get me thinking
-datePublished: '2016-02-09T03:40:44.210Z'
-dateModified: '2016-02-09T03:34:42.413Z'
+description: "This blog is another subdomain of mine. It's simply a collection of things I've found on the interwebs that struck a chord with me. This is a bit of an eclectic mix: but it's a good mind map for what I'm currently thinking about. "
+datePublished: '2016-04-21T23:40:55.637Z'
+dateModified: '2016-04-21T23:40:39.369Z'
 author: []
 related: []
 app_links: []
@@ -26,7 +26,8 @@ _type: MediaObject
 
 ---
 # My Inspiration Box
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/380b6829-fa32-452b-91db-858eeaeed979.png)
 
-[This blog][0] is another subdomain of mine. It's simply a collection of things I've found on the interwebs that struck a chord with me. This is a bit of an eclectic mix: everything from pictures of cats to TED videos to quotes. You get the drift. Might be worth a look if you need to kill a little time in your work day (don't worry, I won't tell your boss).
+[This blog][0] is another subdomain of mine. It's simply a collection of things I've found on the interwebs that struck a chord with me. This is a bit of an eclectic mix: but it's a good mind map for what I'm currently thinking about. 
 
 [0]: https://thegrid.ai/quoteslist/
