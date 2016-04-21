@@ -1,6 +1,6 @@
 name: MarkSchenker
 favicon: null
-layout_spectrum: 0.24885
+layout_spectrum: 0.74885
 typography_spectrum: 0.1980673377402127
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.237326261587441
+  brandStrength: 0.5
   lightness: 0.6026002890430391
   saturation: 0.3777607034426183
   rhythmicContrast: 0.7313135978765786
