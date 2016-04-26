@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=22QLuzsXSsc'
 inLanguage: null
 keywords: []
 description: "A spin on Book of Mormon from an English teacher's perspective. Special thanks to some of the amazing JETs and JTE in Kochi Prefecture!"
-datePublished: '2016-04-26T05:46:45.978Z'
-dateModified: '2016-04-26T05:43:45.179Z'
+datePublished: '2016-04-26T05:56:21.841Z'
+dateModified: '2016-04-26T05:46:58.132Z'
 author:
   - name: One Click Voice
     url: 'https://www.youtube.com/user/SchenkerSyracuse'
