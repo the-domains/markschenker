@@ -4,7 +4,7 @@
         <description><![CDATA[Mark Schenker]]></description>
         <link>http://mschenker.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 05:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 05:41:12 GMT</lastBuildDate>
         <atom:link href="http://mschenker.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Book of English]]></title>
@@ -33,13 +33,6 @@
             <link>https://www.youtube.com/watch?v=CrUIqrIUXQc</link>
             <guid isPermaLink="false">215986a4-5882-4eeb-a334-369b9e6abac6</guid>
             <pubDate>Tue, 26 Apr 2016 05:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>http://mschenker.com/d589713d-7271-43c7-bccb-60bd6ac7de14/index.html</link>
-            <guid isPermaLink="false">d589713d-7271-43c7-bccb-60bd6ac7de14</guid>
-            <pubDate>Mon, 25 Apr 2016 09:55:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
