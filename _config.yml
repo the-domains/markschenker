@@ -1,7 +1,7 @@
 name: MarkSchenker
 favicon: null
-layout_spectrum: 0.74885
-typography_spectrum: 0.1980673377402127
+layout_spectrum: 0.95979
+typography_spectrum: 0.1538
 collections:
   - index:
       navigable: true
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.5
-  lightness: 0.6026002890430391
-  saturation: 0.3777607034426183
+    - '#66a6e3'
+    - '#faf6f5'
+    - '#0091e0'
+    - '#081c34'
+    - '#9b5650'
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0.25
   rhythmicContrast: 0.7313135978765786
 purpose: []
