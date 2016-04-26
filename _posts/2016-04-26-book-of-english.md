@@ -1,29 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=22QLuzsXSsc'
+inLanguage: null
+keywords: []
+description: "A spin on Book of Mormon from an English teacher's perspective. Special thanks to some of the amazing JETs and JTE in Kochi Prefecture!"
+datePublished: '2016-04-26T05:43:35.051Z'
+dateModified: '2016-04-26T05:43:27.666Z'
 author:
   - name: One Click Voice
     url: 'https://www.youtube.com/user/SchenkerSyracuse'
     avatar: {}
 related: []
+app_links: []
+title: Book of English
+sourcePath: _posts/2016-04-26-book-of-english.md
+published: true
+authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-keywords: []
-description: "A spin on Book of Mormon from an English teacher's perspective. Special thanks to some of the amazing JETs and JTE in Kochi Prefecture!"
-app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=22QLuzsXSsc'
-title: Book of English
-datePublished: '2016-04-26T05:23:27.999Z'
-dateModified: '2016-04-26T05:23:15.475Z'
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-authors: []
 starred: true
-sourcePath: _posts/2016-04-26-book-of-english.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
