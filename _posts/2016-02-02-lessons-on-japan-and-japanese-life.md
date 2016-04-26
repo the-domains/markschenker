@@ -5,12 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Between 2013 and 2016 I spent three years living and teaching English in Kochi City, Japan. I worked a several middle schools and elementary schools. My job was to offer support during class and assist in grading. '
-datePublished: '2016-04-26T05:44:36.502Z'
-dateModified: '2016-04-26T05:42:11.149Z'
-author: []
+datePublished: '2016-04-26T05:47:10.184Z'
+dateModified: '2016-04-26T05:44:48.110Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
-title: Lessons on Japan and Japanese life
+title: "Kagami River by Zara's"
 sourcePath: _posts/2016-02-02-lessons-on-japan-and-japanese-life.md
 published: true
 authors: []
@@ -29,7 +31,7 @@ _type: MediaObject
 
 ## A part of me will always be stuck in Japan.
 
-<article style=""><h1>Lessons on Japan and Japanese life</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6502ca9b7a8e742c84d3068c3cc2997c6665388e.png" /></article>
+<article style=""><h1>Kagami River by Zara's</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57bbc97a886571bd96a406ff2484330a72fe966e.png" /></article>
 
 Between 2013 and 2016 I spent three years living and teaching English in Kochi City, Japan. I worked a several middle schools and elementary schools. My job was to offer support during class and assist in grading. 
 
