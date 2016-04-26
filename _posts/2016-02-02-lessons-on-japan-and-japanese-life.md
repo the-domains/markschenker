@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Between 2013 and 2016 I spent three years living and teaching English in Kochi City, Japan. I worked a several middle schools and elementary schools. My job was to offer support during class and assist in grading. '
-datePublished: '2016-04-26T05:47:10.184Z'
-dateModified: '2016-04-26T05:44:48.110Z'
+datePublished: '2016-04-26T05:53:03.323Z'
+dateModified: '2016-04-26T05:47:20.040Z'
 author:
   - name: ''
     url: ''
