@@ -5,13 +5,13 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Japan and Japanese
-datePublished: '2016-02-04T02:07:38.207Z'
-dateModified: '2016-02-04T02:06:46.745Z'
+description: 'Between 2013 and 2016 I spent three years living and teaching English in Kochi City, Japan. I worked a several middle schools and elementary schools. My job was to offer support during class and assist in grading. '
+datePublished: '2016-04-26T05:42:08.272Z'
+dateModified: '2016-04-21T23:58:07.275Z'
 author: []
 related: []
 app_links: []
-title: 日本
+title: Lessons on Japan and Japanese life
 sourcePath: _posts/2016-02-02-lessons-on-japan-and-japanese-life.md
 published: true
 authors: []
