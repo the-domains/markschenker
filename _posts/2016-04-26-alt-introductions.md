@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=ysxYsHUeBHU'
+inLanguage: null
+keywords: []
+description: 'Get to know the ALTs of Kochi, Prefecture!'
+datePublished: '2016-04-26T05:56:01.360Z'
+dateModified: '2016-04-26T05:44:05.879Z'
 author:
   - name: One Click Voice
     url: 'https://www.youtube.com/user/SchenkerSyracuse'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Get to know the ALTs of Kochi, Prefecture!'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=ysxYsHUeBHU'
 title: ALT Introductions
-datePublished: '2016-04-26T05:23:28.396Z'
-dateModified: '2016-04-26T05:22:46.169Z'
-starred: false
 sourcePath: _posts/2016-04-26-alt-introductions.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
