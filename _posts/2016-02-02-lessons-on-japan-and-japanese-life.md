@@ -3,11 +3,10 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'Between 2013 and 2016 I spent three years living and teaching English in Kochi City, Japan. I worked a several middle schools and elementary schools. My job was to offer support during class and assist in grading. '
-datePublished: '2016-04-26T05:42:08.272Z'
-dateModified: '2016-04-21T23:58:07.275Z'
+datePublished: '2016-04-26T05:44:36.502Z'
+dateModified: '2016-04-26T05:42:11.149Z'
 author: []
 related: []
 app_links: []
@@ -20,6 +19,7 @@ publisher:
   domain: thegrid.ai
   url: 'https://thegrid.ai'
   favicon: null
+starred: false
 url: a-part-of-me-will-always-be-stuck-in-japan/index.html
 _context: 'http://schema.org'
 _type: MediaObject
