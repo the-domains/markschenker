@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: "I've been editing and producing narration projects as a side business for the last 2 years. My audiobook work includes work for private clients as well as sites like Audible.com."
-datePublished: '2016-04-21T03:10:42.892Z'
-dateModified: '2016-04-21T03:10:30.807Z'
+datePublished: '2016-04-26T05:24:15.270Z'
+dateModified: '2016-04-26T05:24:14.609Z'
 title: Narration
 author: []
 sourcePath: _posts/2016-03-08-audiovoice.md
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: audiovoice/index.html
 _type: Article
 
